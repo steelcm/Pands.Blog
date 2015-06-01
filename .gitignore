@@ -1,3 +1,7 @@
+# Wordpress specific ignores
+wp-config.php
+wp-content/uploads
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
